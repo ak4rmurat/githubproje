@@ -1,2 +1,3 @@
 ikinci denemedir
 selamlar
+push yaptım ama pull request olusmadi
