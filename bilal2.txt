@@ -3,3 +3,5 @@ selamlar
 push yaptım ama pull request olusmadi
 
 yeniden push yapıp deneyeyim
+
+üst menüden deniyorum
